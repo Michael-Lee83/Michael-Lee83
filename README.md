@@ -16,7 +16,7 @@
 <h2> 👨‍💻 Projects:</h2>
 
  - <b>[Penetration Testing (Active Reconnaisance) Report](https://github.com/Michael-Lee83/Active-Recon-Report/tree/main#active-recon-report)<b/>
- - <b>[Penetration Testing (Port 3306) with Metasploit]<b/>
+ - <b>[Penetration Testing (Port 3306) with Metasploit](https://github.com/Michael-Lee83/Scan-Metasploitable#scan-metasploitable)<b/>
 
 <h2> 🤳 Connect with me:</h2>
 
