@@ -1,4 +1,4 @@
-<h1>Welcome, I'm Michael Lee! A enthusiastic <a href="https://www.linkedin.com/in/michael-lee-vet-cyber/">Cybersecurity Professional</a>
+<h1>Welcome, I'm Michael Lee! An enthusiastic <a href="https://www.linkedin.com/in/michael-lee-vet-cyber/">Cybersecurity Professional</a>
 
 <h2> 🧠 Certifications:</h2>
 
